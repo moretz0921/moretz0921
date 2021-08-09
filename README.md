@@ -1,5 +1,17 @@
-### Hi there 👋
+# Jihyun 😉
+### Who Am I
+- 🌱 I’m currently learning Javascript, Vue
+- 💖 I like web space 
 
+### Experience
+- 🎓
+- 💊 
+- 🌍 
+
+### What I Like
+- 📺 Drama
+- 🔵 Pilates
+- 🍕 Pizza
 
 
 <!--
