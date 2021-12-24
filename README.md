@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=F1E1A6&fontColor=f7f5f5&text=JiHyun!)
+
 
 ### 😉 Who Am I 😉
 - 🌱 I’m currently learning Javascript, Vue
@@ -17,8 +17,6 @@
 <a href="https://www.instagram.com/jihyeon.__.s/" target="_blank"><img src="https://img.shields.io/badge/instagram-critical?style=flat-square&logo=instagram&logoColor=white"/>   </a>
 
 
-
-![footer](https://capsule-render.vercel.app/api?color=F1E1A6&section=footer)
 
 <!--
 **moretz0921/moretz0921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
