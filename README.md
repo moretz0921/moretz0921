@@ -1,7 +1,7 @@
 
 
 ### 😉 Who Am I
-- 🌱 I’m currently learning Javascript, Vue
+- 🌱 I’m currently learning Javascript, React
 - 💖 I like web space 
 
 ### 🔭 Tech Stack
