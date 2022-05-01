@@ -11,9 +11,6 @@
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"> 
 
 
-### ⚡ How Study
-
-![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=moretz0921&show_icons=true&theme=highcontrast)
 
 ### 📫 Contacts
 <a href="https://www.instagram.com/moretz0921/" target="_blank"><img src="https://img.shields.io/badge/instagram-critical?style=flat-square&logo=instagram&logoColor=white"/>   </a>
