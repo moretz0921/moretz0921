@@ -12,11 +12,6 @@
 
 
 
-### 📫 Contacts
-<a href="https://www.instagram.com/moretz0921/" target="_blank"><img src="https://img.shields.io/badge/instagram-critical?style=flat-square&logo=instagram&logoColor=white"/>   </a>
-
-
-
 <!--
 **moretz0921/moretz0921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
