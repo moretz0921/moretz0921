@@ -5,10 +5,6 @@
 - 💖 I like web space 
 
 ### 🔭 Tech Stack
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"> 
 
 
 
