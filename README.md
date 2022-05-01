@@ -5,6 +5,7 @@
 - 💖 I like web space 
 
 ### 🔭 Tech Stack
+js ts react
 
 
 
