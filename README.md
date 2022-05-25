@@ -4,6 +4,7 @@
 - 🌱 개발에 몰두 할 수 있는 환경을 좋아합니다.
 - 💖 서로를 이해하고 존중하며 서로 보완하며 성장할 수 있는 수평적인 조직을 좋아합니다.
 - 💬 정보를 나누고 자유롭게 의견을 내는 것을 좋아합니다. 
+- 👯 사실 기반의 건강한 협업 마인드를 중요시합니다. 
 
 ### 🔭 Tech Stack
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
