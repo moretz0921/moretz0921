@@ -6,10 +6,6 @@
 - 💬 정보를 나누고 자유롭게 의견을 내는 것을 좋아합니다. 
 - 👯 사실 기반의 건강한 협업 마인드를 중요시합니다. 
 
-### 🔭 Tech Stack
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
-
 
 <!--
 **moretz0921/moretz0921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
